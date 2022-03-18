@@ -16,6 +16,7 @@ Para executar o código:
 Interações adicionadas até o momento:
 - Menu de seleção do Personagem, contendo os atributos de Name, Level e HeroType;
 - Retorno da mensagem contendo o atributo do nome do personagem selecionado;
+- Attack() foi adicionado, porém falta implementá-lo no jogo.
 
 <h2> 📚 Paradigma de Programação Orientado a Objetos (POO) </h2>
 
