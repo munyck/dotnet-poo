@@ -1,0 +1,15 @@
+C:\Users\Munyck\dotnet - poo\bin\Debug\net6.0\dotnet - poo.exe
+C:\Users\Munyck\dotnet - poo\bin\Debug\net6.0\dotnet - poo.deps.json
+C:\Users\Munyck\dotnet - poo\bin\Debug\net6.0\dotnet - poo.runtimeconfig.json
+C:\Users\Munyck\dotnet - poo\bin\Debug\net6.0\dotnet - poo.dll
+C:\Users\Munyck\dotnet - poo\bin\Debug\net6.0\dotnet - poo.pdb
+C:\Users\Munyck\dotnet - poo\obj\Debug\net6.0\dotnet - poo.csproj.AssemblyReference.cache
+C:\Users\Munyck\dotnet - poo\obj\Debug\net6.0\dotnet - poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munyck\dotnet - poo\obj\Debug\net6.0\dotnet - poo.AssemblyInfoInputs.cache
+C:\Users\Munyck\dotnet - poo\obj\Debug\net6.0\dotnet - poo.AssemblyInfo.cs
+C:\Users\Munyck\dotnet - poo\obj\Debug\net6.0\dotnet - poo.csproj.CoreCompileInputs.cache
+C:\Users\Munyck\dotnet - poo\obj\Debug\net6.0\dotnet - poo.dll
+C:\Users\Munyck\dotnet - poo\obj\Debug\net6.0\refint\dotnet - poo.dll
+C:\Users\Munyck\dotnet - poo\obj\Debug\net6.0\dotnet - poo.pdb
+C:\Users\Munyck\dotnet - poo\obj\Debug\net6.0\dotnet - poo.genruntimeconfig.cache
+C:\Users\Munyck\dotnet - poo\obj\Debug\net6.0\ref\dotnet - poo.dll
