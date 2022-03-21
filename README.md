@@ -1,5 +1,5 @@
 <h1> DESAFIO: dotNet-POO </h1>
-<h2> Diretório do desafio Abstraindo um Jogo de RPG Usando Orientação a Objetos com C# </h2>
+<h2> Diretório do desafio <i>Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#</i> </h2>
 <p> Plataforma: <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> </p>
 
 
